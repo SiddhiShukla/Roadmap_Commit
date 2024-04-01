@@ -1,0 +1,376 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"link"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"bo",
+				"box-sizing\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"cit",
+				"City"
+			],
+			[
+				"upda",
+				"update_image"
+			],
+			[
+				"use",
+				"user_data"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"htt",
+				"httpRequest"
+			],
+			[
+				"h",
+				"https"
+			],
+			[
+				"onk",
+				"onkeyup\tAttr"
+			],
+			[
+				"onm",
+				"onmouseover\tAttr"
+			],
+			[
+				"area",
+				"area_of_circle"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"cof",
+				"Coffee"
+			],
+			[
+				"ma",
+				"max-width\tproperty"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"boto",
+				"bottom\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"ca",
+				"caption\tTag"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"border-b",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom-width\tproperty"
+			],
+			[
+				"Lo",
+				"London1"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"TI",
+				"TITLE\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<body>\n\n<h1>This is heading 1</h1>\n<h2>This is heading 2</h2>\n<h3>This is heading 3</h3>\n<h4>This is heading 3</h4>\n<h5>This is heading 3</h5>\n<h6>This is heading 3</h6>\n\n<hr>\n\n<p>This is a paragraph.</p>\n<p>This is another paragraph.</p>\n\n<hr>\n\n<a href=\"https://www.w3schools.com\">This is a w3schol link.</a>\n\n<hr>\n\n<img src=\"w3schools.jpg\" alt=\"W3Schools.com\" width=\"104\" height=\"142\">\n\n<pre>\n  My Bonnie lies over the ocean.\n\n  My Bonnie lies over the sea.\n\n  My Bonnie lies over the ocean.\n\n  Oh, bring back my Bonnie to me.\n</pre>\n\n</body>\n\n<body style=\"background-color:white;\">\n\n<h1>This is a heading</h1>\n<p>This is a paragraph.</p>\n\n</body>\n\n<body>\n\n<h1 style=\"background-color:powderblue;\">This is a heading</h1>\n<p style=\"background-color:tomato;\">This is a paragraph.</p>\n\n<h1 style=\"color:blue;\">This is a heading</h1>\n<p style=\"color:red;\">This is a paragraph.</p>\n\n<h1 style=\"font-family:verdana;\">This is a heading</h1>\n<p style=\"font-family:courier;\">This is a paragraph.</p>\n\n<h1 style=\"font-size:300%;\">This is a heading</h1>\n<p style=\"font-size:160%;\">This is a paragraph.</p>\n\n<h1 style=\"text-align:center;\">Centered Heading</h1>\n<p style=\"text-align:center;\">Centered paragraph.</p>\n\n</body>\n\n<body>\n\t\n\t<p> <b>This text is bold</b> </p>\n\t<p> <strong>This text is important!</strong> </p>\n\t<p> <i>This text is italic</i> </p>\n\t<p> <em>This text is emphasized</em> </p>\n\t<p> <small>This is some smaller text.</small> </p>\n\t<p>Do not forget to buy <mark>milk</mark> today.</p>\n\t<p>My favorite color is <del>blue</del> red.</p>\n\t<p>My favorite color is <del>blue</del> <ins>red</ins>.</p>\n\t<p>This is <sub>subscripted</sub> text.</p>\n\t<p>This is <sup>superscripted</sup> text.</p>\n\n</body>\n\n<body>\n\t\n\t<p>Here is a quote from WWF's website:</p>\n<blockquote cite=\"http://www.worldwildlife.org/who/index.html\">\nFor 60 years, WWF has worked to help people and nature thrive. As the world's leading conservation organization, WWF works in nearly 100 countries. At every level, we collaborate with people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live.\n</blockquote>\n\n<p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>\n\n<p>The <abbr title=\"World Health Organization\">WHO</abbr> was founded in 1948.</p>\n\n<address>\nWritten by John Doe.<br>\nVisit us at:<br>\nExample.com<br>\nBox 564, Disneyland<br>\nUSA\n</address>\n\n<p><cite>The Scream</cite> by Edvard Munch. Painted in 1893.</p>\n\n<bdo dir=\"rtl\">This text will be written from right to left</bdo>\n\n<!-- This is a comment -->\n\n<p>This is a paragraph.</p>\n\n<!-- Remember to add more information here -->\n\n<p>This is a paragraph.</p>\n\n<!-- <p>This is another paragraph </p> -->\n\n<p>This is a paragraph too.</p>\n\n<p>This is a paragraph.</p>\n<!--\n<p>Look at this cool image:</p>\n<img border=\"0\" src=\"pic_trulli.jpg\" alt=\"Trulli\">\n-->\n<p>This is a paragraph too.</p>\n\n<p>This <!-- great text --> is a paragraph.</p>\n\n<h1 style=\"background-color:DodgerBlue;\">Hello World</h1>\n<p style=\"background-color:Tomato;\">Lorem ipsum...</p>\n\n<h1 style=\"color:Tomato;\">Hello World</h1>\n<p style=\"color:DodgerBlue;\">Lorem ipsum...</p>\n<p style=\"color:MediumSeaGreen;\">Ut wisi enim...</p>\n\n<h1 style=\"border:2px solid Tomato;\">Hello World</h1>\n<h1 style=\"border:2px solid DodgerBlue;\">Hello World</h1>\n<h1 style=\"border:2px solid Violet;\">Hello World</h1>\n\n<h1 style=\"background-color:rgb(255, 99, 71);\">...</h1>\n<h1 style=\"background-color:#ff6347;\">...</h1>\n<h1 style=\"background-color:hsl(9, 100%, 64%);\">...</h1>\n\n<h1 style=\"background-color:rgba(255, 99, 71, 0.5);\">...</h1> <!--for Alpha channel / transperancy-->\n<h1 style=\"background-color:hsla(9, 100%, 64%, 0.5);\">...</h1>\n<!--for Alpha channel / transperancy-->\n\n\n\n</body>\n\n</html>",
+			"file": "Roadmap_HTML.html",
+			"file_size": 3970,
+			"file_write_time": 133498816186775053,
+			"settings":
+			{
+				"buffer_size": 3826,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Program Files (x86)/Sublime Text 3/movie-finder.css",
+		"/C/Users/Dell/Documents/BOLT/Movie Finder/css/movie-finder.css",
+		"/C/Users/Dell/Documents/BOLT/Movie Finder/movie-finder.html",
+		"/C/Users/Dell/Documents/BOLT/Coffee Shop/contact.html",
+		"/C/Users/Dell/Documents/BOLT/Coffee Shop/product.html",
+		"/C/Users/Dell/Desktop/Coffee Shop/coffeeshop.css",
+		"/C/Users/Dell/Desktop/Coffee Shop/Index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Roadmap_HTML.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2600,
+								2600
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1333.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Roadmap.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
